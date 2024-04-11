@@ -1,0 +1,6 @@
+{
+  "fluids": [
+    "createindustry:heavy_oil"
+  ],
+  "fuel_ticks": 120
+}

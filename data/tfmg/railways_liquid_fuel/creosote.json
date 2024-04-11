@@ -1,0 +1,6 @@
+{
+  "fluids": [
+    "createindustry:creosote"
+  ],
+  "fuel_ticks": 60
+}
